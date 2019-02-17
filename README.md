@@ -19,6 +19,7 @@ We covered setting up Jupyter Notebooks in your Cloud9 environments. You can ref
 ## Minimum Requirements
 
 * Follow along the Data 1 notebook and add code as appropriate.
+* There are 3 sections in the notebook where you should respond with working code or text.
 * Your submitted assignment should include a notebook that has been with your additional code/solutions.
 
 ## Additional Requirements (think extra credit)
